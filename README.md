@@ -1,0 +1,4 @@
+clubbish
+========
+
+Clubbish Card Game
